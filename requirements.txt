@@ -1,0 +1,7 @@
+numpy==1.18.5
+cv2==4.4.0
+sklearn==0.23.1
+matplotlib==3.2.2
+skimage==0.16.2
+PIL==7.2.0
+watermark==2.0.2
